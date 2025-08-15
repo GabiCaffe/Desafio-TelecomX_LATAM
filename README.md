@@ -1,2 +1,2 @@
 # Desafio-TelecomX_LATAM
-Practica como parte del curso Data Sciencia de Alura LATAM
+Practica como parte del curso Data Sciencie de Alura LATAM
